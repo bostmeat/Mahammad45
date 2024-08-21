@@ -40,4 +40,4 @@ Version Control & Collaboration: Git, GitHub, GitLab, Trello
 * Linux
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/home/maga/Загрузки/githubprofl.png),
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png),
