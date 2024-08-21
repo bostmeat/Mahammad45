@@ -40,7 +40,7 @@ Version Control & Collaboration: Git, GitHub, GitLab, Trello
 * Python 
 * Linux
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVmqs6MXr-QLNrhflnbAT2KIJajwBqJRGig&s)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVmqs6MXr-QLNrhflnbAT2KIJajwBqJRGig&s)(https://images.app.goo.gl/LSgGouZ7Z7yMwiDr7)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png),
 
