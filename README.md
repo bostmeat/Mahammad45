@@ -36,8 +36,8 @@ Effects, XD, InDesign, Lightroom, Figma, Canva
 Version Control & Collaboration: Git, GitHub, GitLab, Trello
 
 # Favorite language & Software
-Python 
-Linux
+*Python 
+*Linux
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/home/maga/Загрузки/githubprofl.png),
