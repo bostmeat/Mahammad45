@@ -39,4 +39,3 @@ Version Control & Collaboration: Git, GitHub, GitLab, Trello
 Python 
 Linux
 
-M M, [21.08.2024 18:32]
