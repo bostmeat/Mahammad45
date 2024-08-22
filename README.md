@@ -23,7 +23,7 @@ Passionate about various technologies including  DBeaver, Django, GraphQL , Post
 
 # Specialization
 While I have a diverse skill set across various technologies, my primary focus is on Backend Development. I have extensive experience working with Django, Django REST Framework, FastAPI, Flask, GraphQL, and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.
-* Active on social media [Telegram](https://t.me/Though_123) and [Instagram](https://www.instagram.com/mstayv_123/) , [Linkedin](https://www.linkedin.com/in/mehemmedm45/)
+* Active on social media [Telegram](https://t.me/Though_123) and [Instagram](https://www.instagram.com/mstayv_123/) , [Linkedin](https://www.linkedin.com/in/mehemmedm45/).
 
 
 # Skills & Technologies for 2024.01
