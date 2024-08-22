@@ -23,7 +23,7 @@ Passionate about various technologies including  DBeaver, Django, GraphQL , Post
 
 # Specialization
 While I have a diverse skill set across various technologies, my primary focus is on Backend Development. I have extensive experience working with Django, Django REST Framework, FastAPI, Flask, GraphQL, and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.
-* Active on social media [Telegram](https://t.me/Though_123) and [Instagram](https://www.instagram.com/mstayv_123/).
+* Active on social media [Telegram](https://t.me/Though_123) and [Instagram](https://www.instagram.com/mstayv_123/) , [Linkedin](https://www.linkedin.com/in/mehemmedm45/)
 
 
 # Skills & Technologies for 2024.01
@@ -42,7 +42,7 @@ Version Control & Collaboration: Git, GitHub, GitLab, Trello
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVmqs6MXr-QLNrhflnbAT2KIJajwBqJRGig&s),
 
-<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://images.app.goo.gl/MACJwrBGbQWdiDBa9), -->
 
 <!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png), -->
 
+<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://images.app.goo.gl/MACJwrBGbQWdiDBa9), -->
