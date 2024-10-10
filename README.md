@@ -12,7 +12,7 @@
         <img src="https://user-badge.committers.top/kazakhstan_private/Mahammad45.svg" alt="committers.top badge">
     </a>
 </div>
-</div>
+
 
 <details>
     <summary><strong>GitHub Stats</strong></summary>
