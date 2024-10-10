@@ -27,6 +27,7 @@
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
 <a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
+<a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/etherjs.png" /></a>
 <br/><br/>
 
 ### Frameworks
