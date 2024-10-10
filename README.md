@@ -95,9 +95,3 @@ Version Control & Collaboration: Git, GitHub, GitLab, Trello
 # Favorite language & Software
 * Python 
 * Linux
-
-
-
-<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png), --> -->
-
-<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://images.app.goo.gl/MACJwrBGbQWdiDBa9),
